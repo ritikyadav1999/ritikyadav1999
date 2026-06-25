@@ -213,9 +213,9 @@ I enjoy building:
 
 # 📫 Connect with Me
 
-- Portfolio
-- LinkedIn
-- Email
+- Portfolio : https://ritikyadavportfolio.vercel.app/
+- LinkedIn : https://www.linkedin.com/in/ritikyadav1999/
+- Email : me.ritik.yadav@gmail.com
 
 ---
 
