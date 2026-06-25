@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik Yadav</h1>
 
 <h3 align="center">
-Backend Engineer passionate about Distributed Systems, Scalable Backend Systems and AI-Powered Applications.
+Software Engineer passionate about building scalable systems, distributed architectures, and AI-powered applications.
 </h3>
 
 <p align="center">
